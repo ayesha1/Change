@@ -5,4 +5,4 @@
 
 ### Video Walkthrough
 
-<img src="https://imgur.com/XR6h7PX.gif" height=200>
+<img src="https://imgur.com/XR6h7PX.gif" height=400>
