@@ -1,0 +1,4 @@
+os: osx
+osx_image: xcode10	
+language: swift
+script: xcodebuild clean build test -workspace Change4Change.xcworkspace -scheme "Change4Change" -sdk iphonesimulator -destination "platform=iOS Simulator,OS=12.0,name=iPhone 8 Plus" ONLY_ACTIVE_ARCH=NO CODE_SIGNING_REQUIRED=NO
